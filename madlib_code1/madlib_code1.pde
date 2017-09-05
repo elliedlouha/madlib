@@ -6,9 +6,11 @@ String place1 = "central park";
 String place2 = "mars";
 String verb = "fly";
 String randomColor = "pink";
+
 int randomWholeNumber1 = 4;
 int randomWholeNumber2 = 32;
 int randomWholeNumber3 = 803;
+
 float randomDecimalNumber1 = 16.872;
 float randomDecimalNumber2 = 2.2;
 float randomDecimalNumber3 = 103.54;
